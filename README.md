@@ -4,7 +4,7 @@
 * `» join - Basic bots, it will join the server, and stay inside`
 * `» utf16-join - Sends bots with UTF-16 Invalid Nicknames (Some BungeeCord plugins are Vulnerable!) published due that MCSpam stealed this method`
 * `» abd - AntiBotDeluxe Bypass`
-* `» nAntiBot - Floods with 0, and 1 bytes, it causes nAntibot to saturate,`
+* `» nAntiBot - Floods with 0, and 1 bytes, it causes nAntibot to saturate`
 * `» Queue - Floods JHAntiBot with queue players, causes some auths to crash`
 * `» Byte - Nullping [Method1]`
 * `» Byte2 - Nullping [Method2]`
