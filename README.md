@@ -11,3 +11,7 @@
 
 ## Interested in more?
 > IF you WOULD like to adquire more METHODS, contact us through https://twitter.com/DropBot3 (Aegis Bypass / BotSentry Bypass / TCPShield Bypass / 2LS Bypass & Lot more)
+
+
+~ @GhostyCeh
+~ @ASMRStreber
